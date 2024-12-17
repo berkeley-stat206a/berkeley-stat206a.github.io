@@ -1,14 +1,14 @@
 ---
 layout: home
-title: "Stat 206a: Advanced Topics in Probability and Stochastic Process"
+title: "Stat 206a: Stochastic Processes"
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: "Stat 206a: Advanced Topics in Probability and Stochastic Process"
+  name: "Stat 206a: Stochastic Processes"
 ---
 
-# Stat 206a: Advanced Topics in Probability and Stochastic Process
+# Stat 206a: Stochastic Processes
 {: .mb-2 }
 UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
@@ -21,14 +21,15 @@ UC Berkeley
 
 
 
+
 ## Overview
 
-The topics of this course change each semester, and multiple sections may be offered. Advanced topics in probability offered according to students demand and faculty availability. 
+The content of this course changes from year to year. Course topics will be selected from: the general theory of processes, sample function properties, weak convergence, Brownian motion, diffusions, Levy processes, Markov processes, martingales, Gaussian processes and further topics. 
 
 ## Logistics
 
-Three hours of Lecture per week for 15 weeks.
+Zero hours of Lecture per week for 15 weeks.
 
 ## Prerequisites
 
-Statistics C205A-C205B or consent of instructor. 
+
